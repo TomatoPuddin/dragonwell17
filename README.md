@@ -1,3 +1,12 @@
+Build for minecraft client 1.18 and above
+- Automatically select the dedicated GPU on laptops that have both integrated and dedicated GPUs.
+- JFX21 integrated (without media and webkit).
+- Build with Visual Studio 2022.
+- GL optimization.
+- Trimmed jmods not used by minecraft or hmcl.
+
+***
+
 ![Dragonwell Logo](https://raw.githubusercontent.com/wiki/dragonwell-project/dragonwell8/images/dragonwell_std_txt_horiz.png)
 
 # Introduction
